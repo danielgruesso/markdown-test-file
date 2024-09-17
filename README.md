@@ -5,7 +5,7 @@
 [![COTI Remix Plugin Demo](https://i.ytimg.com/vi/o59aENKhkAI/0.jpg)](https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq)
 
 <p><a href="https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq">
-<img src="https://i.ytimg.com/vi/o59aENKhkAI/0.jpg" alt="https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq" width="100" height="132">
+<img src="https://i.ytimg.com/vi/o59aENKhkAI/0.jpg" alt="https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq">
 </a></p>
 
 This repo contains a markdown file which covers a lot of the syntax. We use it for testing our markdown support.
