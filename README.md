@@ -4,7 +4,7 @@
 
 [![COTI Remix Plugin Demo](https://i.ytimg.com/vi/o59aENKhkAI/0.jpg)](https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq)
 
-<p><a href="https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq">
+<p><a href="https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq" target="_blank">
 <img src="https://i.ytimg.com/vi/o59aENKhkAI/0.jpg" alt="https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq">
 </a></p>
 
