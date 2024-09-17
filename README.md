@@ -2,7 +2,7 @@
 
 **See the raw source of [TEST.md](https://raw.githubusercontent.com/mxstbr/markdown-test-file/master/TEST.md) for the deets!** ([this is the test file rendered](./TEST.md))
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o59aENKhkAI?si=IldSylyjLpVQJ95d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![COTI Remix Plugin Demo](https://img.youtube.com/vi/o59aENKhkAI?si=1A_JYkCmvee9TBjB/0.jpg)](https://youtu.be/o59aENKhkAI?si=wkWJ9f15V_oirjTq)
 
 This repo contains a markdown file which covers a lot of the syntax. We use it for testing our markdown support.
 
